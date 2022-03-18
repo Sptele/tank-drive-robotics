@@ -1,6 +1,9 @@
 #ifndef SRC_MAIN
 #define SRC_MAIN
 
+class MotorSet;
+class Robot;
+
 namespace ports {
     namespace individual {
         // Change these depending on ports
